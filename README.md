@@ -1,2 +1,2 @@
 # Python-Basic-Code
-This is pyhton basic code folder which is coded in 2020
+This is python basic code folder which is coded in 2020
